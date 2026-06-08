@@ -24,14 +24,3 @@ print(filename[-3:])
 copy_filename = filename[:]
 
 print(copy_filename)
-
-
-# Practical Cybersecurity Slicing Examples
-
-# SPLIT => Extract
-
-ip = "192.168.10.50"
-
-octets = ip.split(".")
-
-print(octets)
