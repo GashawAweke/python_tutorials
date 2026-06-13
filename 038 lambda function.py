@@ -29,3 +29,11 @@ users = [
 users.sort(key=lambda user: user["age"])
 
 print(users)
+
+
+# Real-Life Use Cases
+# Sorting students by grade
+# Sorting patients by age
+# Sorting products by price
+# Sorting logs by timestamp
+# Sorting API responses
