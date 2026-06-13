@@ -37,3 +37,13 @@ print(users)
 # Sorting products by price
 # Sorting logs by timestamp
 # Sorting API responses
+
+
+# Lambda vs Normal Function
+
+
+# | Lambda         | Function            |
+# | -------------- | ------------------- |
+# | One expression | Multiple statements |
+# | Anonymous      | Named               |
+# | Short code     | Complex logic       |
