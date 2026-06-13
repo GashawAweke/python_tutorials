@@ -1,0 +1,122 @@
+#### Complete ICT Technician Starter Toolkit
+
+This is a practical kit for a school ICT office, ICT help desk, computer lab, or small organization.
+
+##### Networking Tools
+
+* RJ45 connectors (Cat5e/Cat6)
+* RJ45 crimping tool
+* Network cable tester
+* Punch-down tool
+* Wire stripper
+* Ethernet cables (various lengths)
+* RJ45 couplers
+* Cable ties and Velcro straps
+* USB-to-Ethernet adapter
+* Wi-Fi USB adapter
+* Small network switch (5-port or 8-port)
+* Spare router or access point
+
+##### Computer Repair Tools
+
+* Phillips screwdriver set
+* Precision screwdriver set
+* Magnetic screwdriver kit
+* Plastic pry tools
+* Tweezers
+* Flashlight
+* Anti-static wrist strap
+* Thermal paste
+* Soft brush
+* Microfiber cloth
+* Compressed air blower
+* Isopropyl alcohol
+
+##### Storage and Recovery
+
+* 32–64 GB bootable USB flash drive
+* Additional USB flash drive for drivers and utilities
+* External SSD or HDD for backups
+* External SSD enclosure
+
+##### Essential Cables and Adapters
+
+* Ethernet cables
+* HDMI cable
+* VGA cable
+* USB-A to USB-C cable
+* USB-C to USB-C cable
+* DisplayPort to HDMI adapter
+* HDMI to VGA adapter
+* SATA data cables
+* SATA power extension cables
+* USB extension cable
+
+##### Power and Electrical Tools
+
+* Extension cable
+* Power strip
+* Surge protector
+* Digital multimeter
+* Spare power cords
+
+##### Spare Components
+
+* DDR3/DDR4/DDR5 RAM modules (if available)
+* SATA SSD
+* M.2 SSD
+* CMOS batteries (CR2032)
+* USB keyboard
+* USB mouse
+* Spare laptop charger(s)
+* Spare desktop power supply (optional)
+
+##### Software Toolkit (Stored on USB)
+
+* Windows installation media
+* Ubuntu installation media
+* Hardware diagnostic tools
+* Disk health tools
+* Malware scanner
+* Browser installers
+* PDF reader
+* Driver packages
+* Remote support software
+
+##### ICT Help Desk Documents
+
+* Computer troubleshooting checklist
+* Network troubleshooting checklist
+* Asset inventory forms
+* Maintenance logbook
+* Incident report forms
+
+##### School ICT Corner Posters
+
+* Computer parts identification poster
+* Computer troubleshooting flowchart
+* Networking fundamentals poster
+* Cybersecurity awareness poster
+* Artificial Intelligence poster
+* Robotics poster
+* Keyboard shortcuts poster
+* Safe internet usage poster
+
+#### Minimum Budget Version
+
+If budget is limited, start with:
+
+1. Screwdriver set
+2. RJ45 crimper
+3. RJ45 connectors
+4. Network cable tester
+5. Ethernet cables
+6. 64 GB bootable USB drive
+7. External SSD
+8. Brush and microfiber cloth
+9. Multimeter
+10. Extension cable
+11. HDMI cable
+12. Spare keyboard and mouse
+
+Those 12 items will solve the majority of ICT problems encountered in schools, offices, and computer laboratories.
